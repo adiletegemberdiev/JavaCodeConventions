@@ -1,7 +1,7 @@
  # Java Project Architecture Convention
 List of sections:
-* [Controller](endoint.md)
-* [Endpoint](controller.md)
+* [Controller](controller.md)
+* [Endpoint](endoint.md)
 * [Interface]()
 * [Service]()
 * [Repository]()
