@@ -1,9 +1,9 @@
  # Java Project Architecture Convention
 List of sections:
-* [Controller]()
-* [Endpoint]()
+* [Controller](endoint.md)
+* [Endpoint](controller.md)
 * [Interface]()
 * [Service]()
 * [Repository]()
 * [Entity]()
-* [Dto]()
+* [DTO]()
