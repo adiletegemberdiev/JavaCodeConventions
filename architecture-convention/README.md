@@ -2,8 +2,6 @@
 List of sections:
 * [Controller](controller.md)
 * [Endpoint](endoint.md)
-* [Interface]()
+* [Component](component.md)
 * [Service]()
 * [Repository]()
-* [Entity]()
-* [DTO]()
