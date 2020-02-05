@@ -1,6 +1,6 @@
-# JavaCodeConventions
+# JavaProjectConventions
 
-* [Java Naming Convention](naming/README.md)
+* [Java Code Convention](naming/README.md)
 * [Project Architecture Convention](architecture-convention/README.md)
 
 = Coding Standards  =
