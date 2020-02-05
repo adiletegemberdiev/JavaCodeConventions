@@ -5,10 +5,10 @@
 - Begin with an uppercase letter end with Endpoint word
 - Preferably a noun e.g. CarEndpoint, BirdEndpoint, MountainBikeEndpoint
 - Avoid acronyms and abbreviations
-- Only [services](./service.md) should be inject in the endpoint
+- Only [services](./service.md), [component](./component.md) should be inject in the endpoint
 - The endpoint is a kind of service all business logic should written here
 - The endpoint receives an input parameter from the controller DTO, not an Entity
-- The endpoint passes the Entity to the service, not a DTO and return to controller only DTO
+- The endpoint passes the Entity to the service and can pass Entity or DTO to component(Business Logic Layer), not a DTO and return to controller only DTO
 
 
 ```java

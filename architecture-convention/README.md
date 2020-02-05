@@ -1,7 +1,11 @@
  # Java Project Architecture Convention
-List of sections:
+List of layers:
 * [Controller](controller.md)
 * [Endpoint](endoint.md)
 * [Component](component.md)
-* [Service]()
-* [Repository]()
+* [Service](service.md)
+* [Repository](repository.md), [DAO](dao.md)
+
+List of elements:
+* [Entity](entity.md)
+* [DTO](dto.md)
